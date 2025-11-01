@@ -50,3 +50,10 @@ e.g
 var arr [5]int = [5]int{1,2,3,4,5};
 <b> need to practice the go lang array often </b>
 <b> another new concept of channel is introduced which is new to me , as it is related with goroutin and concurancy i will look it later </b>
+
+## break , continue and goto
+
+so these statement are used to exit from the loop or shift its attention to some other part of it
+### break will => break the loop and come out of it;
+### continue => will only skip the current iteration and continue the iteration from the next one
+### goto => will shift the control to the label defined in the code
