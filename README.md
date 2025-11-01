@@ -54,6 +54,6 @@ var arr [5]int = [5]int{1,2,3,4,5};
 ## break , continue and goto
 
 so these statement are used to exit from the loop or shift its attention to some other part of it
-### break will => break the loop and come out of it;
-### continue => will only skip the current iteration and continue the iteration from the next one
-### goto => will shift the control to the label defined in the code
+**_break_** will => break the loop and come out of it;
+**_continue_** => will only skip the current iteration and continue the iteration from the next one
+**_goto_** => will shift the control to the label defined in the code
